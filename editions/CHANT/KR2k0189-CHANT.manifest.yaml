@@ -1,0 +1,28 @@
+canonical_identifier: bkk:krp/KR2k0189/CHANT/v1
+canonical_location: https://kanripo.org/bkk/KR2k0189/CHANT/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 陸澄地理書抄一卷
+  identifiers:
+    krp: KR2k0189
+  tags:
+    kr-categories: KR2k
+    tls-dates: dat04500
+  source:
+    repository: tls-texts
+    path: data/tls/KR2k0189.xml
+  edition:
+    short: CHANT
+assets:
+  parts:
+  - {seq: 1, filename: KR2k0189_001-CHANT.yaml, hash: 'sha256:5c9ba63dd45eb07d8ce02d417e1dd6c3338f197fb0702b47f80b6ed29cebf2a9'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR2k0189_001-CHANT.markers.yaml, hash: 'sha256:ec456771601e03fbab706f5b6c0b602ef57329ced3ae79e8da5f2f3d74bc8524'}
+table_of_contents:
+- ref: {seq: 1, marker_id: KR2k0189_CHANT_001-1a.1-h, span: [body, 0, 54]}
+  label: 陸澄地理書抄
+  type: section
+  level: 1
+hash: sha256:8a1cae92a84de81ec2ff79e5776fe33c4bdacd319b989e5046babe3209068721
