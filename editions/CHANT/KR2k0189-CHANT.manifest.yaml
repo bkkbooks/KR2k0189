@@ -21,7 +21,13 @@ assets:
   markers:
   - {seq: 1, role: markers, filename: assets/KR2k0189_001-CHANT.markers.yaml, hash: 'sha256:ec456771601e03fbab706f5b6c0b602ef57329ced3ae79e8da5f2f3d74bc8524'}
 table_of_contents:
-- ref: {seq: 1, marker_id: KR2k0189_CHANT_001-1a.1-h, span: [body, 0, 54]}
+- ref:
+    seq: 1
+    marker_id: KR2k0189_CHANT_001-1a.1-h
+    span:
+    - body
+    - 0
+    - 54
   label: 陸澄地理書抄
   type: section
   level: 1

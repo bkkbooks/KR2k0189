@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 陸澄地理書抄襄陽無襄水筑水會沔水之處為筑口袁府君玘造長橋後漢人也晉代周處少時斬長橋下食人蛟之處其橋有一十二間
-  hash: sha256:c0931196528c861a5baa20f10fad3643f0f1360284a08576428359b758f26d4d
+  text: 陸澄地理書抄襄陽無襄水築水會沔水之處為築口袁府君玘造長橋後漢人也晉代周處少時斬長橋下食人蛟之處其橋有一十二間
+  hash: sha256:8706c48365d96db546b9d00363b091df893e208feac964c70a50a671d321d739
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR2k0189_CHANT_001-1a.1-h}
 metadata:
@@ -15,4 +15,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR2k0189.xml
-hash: sha256:5c9ba63dd45eb07d8ce02d417e1dd6c3338f197fb0702b47f80b6ed29cebf2a9
+hash: sha256:90e55793b7e25df84a0ed9fcf605ee9b8ca67737b65c4d9ac595f656d6ca0e1e

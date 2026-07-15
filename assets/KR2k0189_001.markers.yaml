@@ -10,6 +10,8 @@ markers:
   - {type: xml-element, offset: 11, content: '', id: KR2k0189_CHANT_001-bkkxmlele2, name: p, role: close}
   - {type: xml-element, offset: 11, content: '', id: KR2k0189_CHANT_001-bkkxmlele3, name: p, role: open}
   - {type: 'tls:seg', offset: 11, content: '', id: KR2k0189_CHANT_001-1a.3}
+  - {type: substitution, offset: 11, original: 筑, replacement: 築, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17485}}
+  - {type: substitution, offset: 19, original: 筑, replacement: 築, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17485}}
   - {type: punctuation, offset: 21, content: 。, id: KR2k0189_CHANT_001-bkkpn2}
   - {type: xml-element, offset: 21, content: '', id: KR2k0189_CHANT_001-bkkxmlele4, name: p, role: close}
   - {type: xml-element, offset: 21, content: '', id: KR2k0189_CHANT_001-bkkxmlele5, name: p, role: open}
@@ -25,4 +27,4 @@ markers:
   - {type: punctuation, offset: 54, content: 。, id: KR2k0189_CHANT_001-bkkpn7}
   - {type: xml-element, offset: 54, content: '', id: KR2k0189_CHANT_001-bkkxmlele6, name: p, role: close}
   back: []
-hash: sha256:cae46f1dfbcc291582f811a95cb595669703b3e654978028452ed02cb92f4b17
+hash: sha256:f042a3cf45b8282bde32f624536e01782fe29c2734194a074515b844b1ea2c74
